@@ -13,9 +13,10 @@ I'm an Analytics Engineer that specializes in empowering key stakeholders to lev
     - Tableau
     - Excel
 
-
 ## **Portfolio**
-Tableau Sales Dashboard 
+[[Tableau Sales Dashboard]](https://public.tableau.com/views/SuperstoreBreakEven/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
+[[Knime Tutoring]](https://www.youtube.com/@nickydee3088/videos)
+
 
 <!---
 nick-rivera-ru/nick-rivera-ru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

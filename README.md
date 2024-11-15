@@ -1,10 +1,10 @@
-Hi, I’m Nick Rivera. 
+Hi, 
 
-I'm an Analytics Engineer that specializes in empowering key stakeholders to leverage data for smarter, informed decision-making. I design and build data products that transform complex information into actionable insights. My work includes pricing models, customer analytics, KPI reports & dashboards, and automating labor-intensive processes. 
+I’m Nick Rivera, an Analytics Engineer that specializes in empowering key stakeholders to leverage data for smarter, informed decision-making. I design and build data products that transform complex information into actionable insights. My work includes pricing models, customer analytics, KPI reports & dashboards, and automating labor-intensive processes. 
 
-What sets me apart is not just my technical expertise but my ability to serve as a strategic thought partner. When I take on a project, I’m not just executing tasks—I’m asking critical questions and sharing insights to ensure we’re covering all angles. My knack for thinking outside the box and sparking fresh perspectives comes from a decade of experience collaborating with C-Suite executives.
+What sets me apart is not just my technical expertise but my ability to serve as a strategic partner. When I manage a project, I’m not just executing tasks—I’m asking critical questions and sharing insights to ensure we’re covering all angles. My ability to think outside the box and spark fresh perspectives comes from a decade of experience collaborating with C-Suite executives.
 
-If you're looking to use data to drive your business, shoot me an email so we can discuss further how I can help you achieve that. My email is data.help.pls@gmail.com
+If you're not sure what your data can do for you, contact me via email at data.help.pls@gmail.com
 
 ## **Portfolio**
 

@@ -4,7 +4,7 @@ an Analytics Engineer who specializes in empowering key stakeholders to leverage
 
 What sets me apart is not just my technical expertise but my ability to serve as a strategic partner. When I manage a project, I’m not just executing tasks—I’m asking critical questions and sharing insights to ensure we’re covering all angles. My ability to think outside the box and spark fresh perspectives comes from a decade of experience collaborating with C-Suite executives.
 
-If you're not sure what your data can do for you, contact me via email at data.help.pls@gmail.com t
+If you're not sure what your data can do for you, contact me via email at data.help.pls@gmail.com
 
 ## **Portfolio**
 

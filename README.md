@@ -21,6 +21,7 @@ If you're not sure what your data can do for you, contact me via email at data.h
 - **Automations**
     - Batch Scripting
     - Python
+    - VBA
 - **Reporting**
     - Tableau
     - Excel
